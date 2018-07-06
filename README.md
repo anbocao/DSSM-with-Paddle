@@ -18,4 +18,5 @@ The job of the model is to learn with one of the title is more relevant than the
 
 ## Reference
 PaddlePaddle: https://github.com/PaddlePaddle/Paddle
+
 DSSM: https://www.microsoft.com/en-us/research/publication/learning-deep-structured-semantic-models-for-web-search-using-clickthrough-data/
